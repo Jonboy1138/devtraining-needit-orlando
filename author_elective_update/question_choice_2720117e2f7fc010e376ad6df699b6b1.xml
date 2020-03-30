@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <misc>0</misc>
+        <order>100</order>
+        <question display_value="Non-Employee Type">b78fc17e2f7fc010e376ad6df699b634</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-30 15:49:54</sys_created_on>
+        <sys_id>2720117e2f7fc010e376ad6df699b6b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Staffing Agency</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>question_choice_2720117e2f7fc010e376ad6df699b6b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-30 15:49:54</sys_updated_on>
+        <text>Staffing Agency</text>
+        <value>staffing_agency</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=2720117e2f7fc010e376ad6df699b6b1"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>2720117e2f7fc010e376ad6df699b6b1</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-30 15:49:54</sys_created_on>
+        <sys_id>eeb0953e2f7fc010e376ad6df699b66c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-30 15:49:54</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>2720117e2f7fc010e376ad6df699b6b1</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-30 15:49:54</sys_created_on>
+        <sys_id>a6b0953e2f7fc010e376ad6df699b66c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-30 15:49:54</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>a5e72055dbdf80d42f68c59705961921</instance_id>
+        <instance_name>dev101801</instance_name>
+        <name>question_choice_2720117e2f7fc010e376ad6df699b6b1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><misc>0</misc><order>100</order><question display_value="Non-Employee Type">b78fc17e2f7fc010e376ad6df699b634</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-30 15:49:54</sys_created_on><sys_id>2720117e2f7fc010e376ad6df699b6b1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Staffing Agency</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>question_choice_2720117e2f7fc010e376ad6df699b6b1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-30 15:49:54</sys_updated_on><text>Staffing Agency</text><value>staffing_agency</value></question_choice><fx_price action="delete_multiple" query="id=2720117e2f7fc010e376ad6df699b6b1"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>misc</field><id>2720117e2f7fc010e376ad6df699b6b1</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-30 15:49:54</sys_created_on><sys_id>eeb0953e2f7fc010e376ad6df699b66c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-30 15:49:54</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_misc</field><id>2720117e2f7fc010e376ad6df699b6b1</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-30 15:49:54</sys_created_on><sys_id>a6b0953e2f7fc010e376ad6df699b66c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-30 15:49:54</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>-67310785</payload_hash>
+        <record_name>Staffing Agency</record_name>
+        <reverted_from/>
+        <source>d45e32792f3f4010e376ad6df699b66d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-30 15:49:54</sys_created_on>
+        <sys_id>6ab09d7e2f7fc010e376ad6df699b67b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1712c22903c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-30 15:49:54</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>a2b09d7e507fc01051be0800a521b67b</update_guid>
+        <update_guid_history>a2b09d7e507fc01051be0800a521b67b:-67310785</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Staffing Agency">6672597e2f7fc010e376ad6df699b621</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-30 15:57:34</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>083ea3f439ca40a390ea2fc842d3a219</sys_id>
+        <sys_metadata>2720117e2f7fc010e376ad6df699b6b1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Staffing Agency</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="Non-Employee Type">b78fc17e2f7fc010e376ad6df699b634</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>question_choice_2720117e2f7fc010e376ad6df699b6b1</sys_update_name>
+        <sys_update_version display_value="question_choice_2720117e2f7fc010e376ad6df699b6b1">6ab09d7e2f7fc010e376ad6df699b67b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-30 15:57:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
